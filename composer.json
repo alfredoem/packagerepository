@@ -3,7 +3,7 @@
     "description": ":package_description",
     "keywords": [
         "league",
-        ":package_name"
+        "alfredoem"
     ],
     "homepage": "https://github.com/thephpalfredoem/mypackage",
     "license": "MIT",
