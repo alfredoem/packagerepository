@@ -5,6 +5,7 @@
         "league",
         "alfredoem"
     ],
+    "minimum-stability": "dev",
     "homepage": "https://github.com/thephpalfredoem/mypackage",
     "license": "MIT",
     "authors": [
